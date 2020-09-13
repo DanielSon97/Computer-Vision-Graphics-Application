@@ -1,0 +1,36 @@
+CONTROL POINT SET SIZES					
+Max Value of i (m)	Max Value of j (n)				
+2	2				
+					
+ORDERS					
+Order (k)	Order (l)				
+2	2				
+					
+CONTROL POINTS AND WEIGHTS					
+i	j	CP X	CP Y	CP Z	Weight
+0	0	5	50	10	5
+0	1	25	215	40	8
+0	2	60	400	20	6
+1	0	120	100	100	5
+1	1	150	250	300	12
+1	2	250	450	200	5
+2	0	350	15	15	13
+2	1	310	150	175	2
+2	2	480	300	125	8
+					
+KNOT VECTORS					
+Knot Vector (u)					
+0					
+1					
+2					
+3					
+4					
+Knot Vector (v)					
+0					
+1					
+2					
+3					
+4					
+					
+RENDERING RESOLUTION					
+50					
